@@ -1,0 +1,1 @@
+[14-Sep-2015 12:19:47 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/eshkevar/public_html/wp-content/themes/minimatica/comments.php on line 13

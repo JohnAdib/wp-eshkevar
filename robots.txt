@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+
+Sitemap: http://www.eshkevar.ir/sitemap.xml
+http://www.eshkevar.ir/sitemap.xml.gz
+http://www.eshkevar.ir/sitemap_index.xml
+
